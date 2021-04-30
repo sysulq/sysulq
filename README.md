@@ -5,4 +5,4 @@
 * 偶尔在 Github 码点代码
 * 偶尔在 [知乎](https://www.zhihu.com/people/muziqi) 答点问题，写点文章
 * 偶尔在 [斗鱼](https://www.douyu.com/9016727) 直播下棋，欢迎关注
-* 个人微信号：sysulq，加好友请在备注简单介绍自己 :-)
+* 个人微信号：sysulq，加好友前请先自我介绍 :-)
