@@ -4,10 +4,14 @@
 - iPhone 11
 - MacBook Air 2020 M1
 - 黑苹果 10600K 5500XT
+- Ubuntu 10500
 
 编程工具
 - VS Code
 - GitHub Copilot
+
+笔记应用
+- Obsidian
 
 社交网站
 - [GitHub](https://github.com/hnlq715)
