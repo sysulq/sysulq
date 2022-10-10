@@ -1,29 +1,29 @@
-#### Hi 我是大可
+#### Hi, I'm 大可
 
-录制设备
+Production Gears
 - iPhone 11
 - MacBook Air 2020 M1
-- 黑苹果 10600K 5500XT
+- Hackintosh 10600K 5500XT
 - Ubuntu 10500
 
-编程工具
+Programming Tools
 - VS Code
 - GitHub Copilot
-  
-笔记软件
+
+Notes
 - Obsidian
 
-网络设备
-- 路由器 TL-XDR3010
-- 万兆光猫
-- N1 旁路由
+Network Devices
+- TL-XDR3010
+- 10G-EPON
+- N1 Bypassing Router
 
-社交网站
+Social
 - GitHub: https://github.com/hnlq715
-- B站: https://space.bilibili.com/492204464
-- 知乎: https://www.zhihu.com/people/muziqi
-- Youtube: https://www.youtube.com/channel/UCiyA38C1c2PqSlRTfYDlWzw
-- WeChat: c3lzdWxx（base64编码，加好友前请先自我介绍）
+- Bilibili: https://space.bilibili.com/492204464
+- ZhiHu: https://www.zhihu.com/people/muziqi
+- YouTube: https://www.youtube.com/channel/UCiyA38C1c2PqSlRTfYDlWzw
+- WeChat: c3lzdWxx（base64 encoded，Please introduce yourself before adding friends）
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnlq715&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hnlq715&theme=github)
