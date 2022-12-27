@@ -1,10 +1,9 @@
 #### Hi, I'm 大可
 
 Production Gears
-- iPhone 11
-- MacBook Air 2020 M1
-- Hackintosh 10600K 5500XT
-- Ubuntu 10500
+- MacBook Air M1/16G
+- Hackintosh 10600K/32G/5500XT
+- Ubuntu 10500/80G
 
 Programming Tools
 - VS Code
@@ -14,9 +13,9 @@ Notes
 - Obsidian
 
 Network Devices
-- TL-XDR3010
 - 10G-EPON
-- N1 Bypassing Router
+- TL-XDR3010
+- N1 OpenWRT
 
 Social
 - GitHub: https://github.com/hnlq715
