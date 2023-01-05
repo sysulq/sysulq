@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/hnlq715?style=social)](https://github.com/hnlq715)
 [![Bilibili](https://bilistats.lonelyion.com/followers?uid=492204464)](https://space.bilibili.com/492204464)
-[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCiyA38C1c2PqSlRTfYDlWzw?style=social)](https://www.youtube.com/channel/UCiyA38C1c2PqSlRTfYDlWzw)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCiyA38C1c2PqSlRTfYDlWzw?style=social)](https://www.youtube.com/@hnlqsysu)
 
 Production Gears
 - MacBook Air M1/16G
