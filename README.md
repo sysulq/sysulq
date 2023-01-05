@@ -1,6 +1,7 @@
 #### Hi, I'm 大可
 
 [![Github](https://img.shields.io/github/followers/hnlq715?style=social)](https://github.com/hnlq715)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hnlqsysu.home)](https://github.com/hnlq715)
 [![Bilibili](https://bilistats.lonelyion.com/followers?uid=492204464)](https://space.bilibili.com/492204464)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCiyA38C1c2PqSlRTfYDlWzw?style=social)](https://www.youtube.com/@hnlqsysu)
 
