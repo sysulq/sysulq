@@ -5,7 +5,8 @@
 [![Bilibili](https://bilistats.lonelyion.com/followers?uid=492204464)](https://space.bilibili.com/492204464)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCiyA38C1c2PqSlRTfYDlWzw?style=social)](https://www.youtube.com/@hnlqsysu)
 
-I'm the maintainer of [Jupiter](https://github.com/douyu/jupiter) Web Framework for Golang, which is being used for years at Douyu.
+I'm the maintainer of [Jupiter](https://github.com/douyu/jupiter) Web Framework for Golang, which is being used for years at Douyu.  
+How to reach me: hnlq.sysu@gmail.com
 
 Production Gears
 - MacBook Air M1/16G
