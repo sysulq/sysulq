@@ -22,6 +22,9 @@ Programming Tools
 Notes
 - Obsidian
 
+Storage
+- TrueNAS E1240L/32G
+
 Network Devices
 - 10G-EPON
 - TL-XDR3010
