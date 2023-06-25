@@ -8,6 +8,9 @@
 I'm the maintainer of [Jupiter](https://github.com/douyu/jupiter) Web Framework for Golang, which is being used for years at Douyu.  
 How to reach me: hnlq.sysu@gmail.com
 
+Presentations
+- ArchSummit (Beijing) 2023
+
 Production Gears
 - MacBook Air M1/16G
 - Hackintosh 10600K/128G/5500XT
