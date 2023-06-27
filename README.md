@@ -13,7 +13,7 @@ Presentations
 
 Production Gears
 - MacBook Air M1/16G
-- Hackintosh 10600K/128G/5500XT
+- Hackintosh & Windows 11 (10600K/128G/5500XT)
 - MX Master3 mouse
 - NIZ 87 keyboard
 - Bose QC35 II
