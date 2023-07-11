@@ -30,7 +30,7 @@ Home Lab
 
 Network Devices
 - 10G-EPON
-- TL-XDR3010
+- TL-XDR3010 x2 (Wired Mesh)
 - N1 OpenWRT
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hnlq715&theme=github)
