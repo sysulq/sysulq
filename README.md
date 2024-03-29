@@ -9,7 +9,8 @@ I'm the maintainer of [Jupiter](https://github.com/douyu/jupiter) Web Framework 
 How to reach me: hnlq.sysu@gmail.com
 
 Presentations
-- ArchSummit (Beijing) 2023
+- 2023 ArchSummit (BeiJing)
+- 2024 Gopher Meetup (WuHan) [PPT](https://sysulq.netlify.app/2024-01-28/)
 
 Production Gears
 - MacBook Air M1/16G
