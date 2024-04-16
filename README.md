@@ -16,7 +16,8 @@
 ## How To Reach Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hnlq.sysu@gmail.com)
-
+[![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat&logo=Youtube&logoColor=red&color=white)](https://youtube.com/channel/@hnlqsysu)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-c14438?style=flat&logo=Bilibili&logoColor=white&color=blue)](https://space.bilibili.com/492204464)
 
 ## Presentations
 - 2023 ArchSummit (BeiJing)
