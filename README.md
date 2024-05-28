@@ -24,11 +24,11 @@
 - 2024 Gopher Meetup (WuHan) [PPT](https://sysulq.netlify.app/2024-01-28/)
 
 ## Projects
-- [kod](https://github.com/go-kod/kod) - A generics based dependency injection application framework for Go, support OpenTelemetry trace/metric/log natively 🚀🚀🚀
+- [kod](https://github.com/go-kod/kod) - Generics based dependency injection application framework, support OpenTelemetry trace/metric/log natively 🚀🚀🚀
 - [jupiter](https://github.com/douyu/jupiter) - Governance-oriented Microservice Framework.
 - [nginx-vts-exporter](https://github.com/sysulq/nginx-vts-exporter) - Simple server that scrapes Nginx vts stats and exports them via HTTP for Prometheus consumption.
-- [httpmq](https://github.com/sysulq/httpmq) - A simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
-- [struct2interface](https://github.com/sysulq/struct2interface) - Development helper program that generates interface by inspecting the structure methods of an existing .go file.
+- [httpmq](https://github.com/sysulq/httpmq) - Simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
+- [struct2interface](https://github.com/sysulq/struct2interface) - Generates interface by inspecting the structure methods of an existing .go file.
 
 ## Software
 - VS Code
