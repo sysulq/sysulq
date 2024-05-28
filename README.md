@@ -23,25 +23,25 @@
 - 2023 ArchSummit (BeiJing)
 - 2024 Gopher Meetup (WuHan) [PPT](https://sysulq.netlify.app/2024-01-28/)
 
-## Production Gears
+## Projects
+- [kod](https://github.com/go-kod/kod) - A generics based dependency injection application framework for Go, support OpenTelemetry trace/metric/log natively 🚀🚀🚀
+- [jupiter](https://github.com/douyu/jupiter) - Governance-oriented Microservice Framework.
+- [nginx-vts-exporter](https://github.com/sysulq/nginx-vts-exporter) - Simple server that scrapes Nginx vts stats and exports them via HTTP for Prometheus consumption.
+- [httpmq](https://github.com/sysulq/httpmq) - A simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
+- [struct2interface](https://github.com/sysulq/struct2interface) - Development helper program that generates interface by inspecting the structure methods of an existing .go file.
+
+## Software
+- VS Code
+- GitHub Copilot
+- Obsidian
+
+## Hardware
 - MacBook Air M1/16G
 - Hackintosh & Windows 11 (10600K/128G/5500XT)
 - MX Master3 mouse
 - NIZ 87 keyboard
 - Bose QC35 II
 - Dell S2721
-
-## Programming Tools
-- VS Code
-- GitHub Copilot
-
-## Notes
-- Obsidian
-
-## Home Lab
 - TrueNAS Scale E1240L/32G
-
-## Network Devices
-- 10G-EPON
 - TL-XDR3010 x2 (Wired Mesh)
-- N1 OpenWRT
+- N1 OpenWRT (Bypass)
