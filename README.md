@@ -27,8 +27,12 @@
 - [kod](https://github.com/go-kod/kod) - Generics based dependency injection application framework, support OpenTelemetry trace/metric/log natively 🚀🚀🚀
 - [jupiter](https://github.com/douyu/jupiter) - Governance-oriented Microservice Framework.
 - [nginx-vts-exporter](https://github.com/sysulq/nginx-vts-exporter) - Simple server that scrapes Nginx vts stats and exports them via HTTP for Prometheus consumption.
-- [httpmq](https://github.com/sysulq/httpmq) - Simple HTTP message queue written in Go with goleveldb, just like httpsqs written in C with Tokyo Cabinet.
-- [struct2interface](https://github.com/sysulq/struct2interface) - Generates interface by inspecting the structure methods of an existing .go file.
+- [nginx-prometheus-metrics](https://github.com/sysulq/nginx-prometheus-metrics) - A production demo to collect prometheus metrics for nginx with lua embedded.
+- [gobreak](https://github.com/sysulq/gobreak) - Latency and fault tolerance library like Netflix's Hystrix with prometheus and gobreaker.
+- [go-loadbalance](https://github.com/sysulq/go-loadbalance) - A well designed loadbalance API with dozens of implementations for go-grpc loadbalance.
+- [struct2interface](https://github.com/sysulq/struct2interface) - Generates interface by inspecting the structure methods of existing .go files.
+
+> [Click Here](https://github.com/sysulq?tab=repositories&q=&type=&language=&sort=stargazers) to learn more...
 
 ## Software
 - VS Code
