@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 大可</h1>
-<p align="center">I'm the maintainer of <a href="https://github.com/douyu/jupiter">Jupiter</a> Web Framework for Golang, which is being used for years at Douyu.</p>
+<p align="center">A senior father with one son and one daughter, trying to be an interesting person.</p>
 
 <p align="center"> 
 
