@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 大可</h1>
-<p align="center">A senior father with one son and one daughter, trying to be an interesting person.</p>
+<p align="center">Husband, Senior Father of two, Software Engineer/Architecture, trying to be an interesting person.</p>
 
 <p align="center"> 
 
