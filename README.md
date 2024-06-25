@@ -40,8 +40,8 @@
 - Obsidian
 
 ## Hardware
+- Hackintosh & Windows 11 & Linux (10600K/128G/5500XT)
 - MacBook Air M1/16G
-- Hackintosh & Windows 11 (10600K/128G/5500XT)
 - MX Master3 mouse
 - NIZ 87 keyboard
 - Bose QC35 II
