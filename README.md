@@ -5,8 +5,10 @@
 
 <img align="center" src="https://img.shields.io/github/followers/sysulq?style=social" href="https://github.com/sysulq"/>
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hnlqsysu.home" href="https://github.com/sysulq"/>
+<!--
 <img align="center" src="https://bilistats.lonelyion.com/followers?uid=492204464" href="https://space.bilibili.com/492204464"/>
 <img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCiyA38C1c2PqSlRTfYDlWzw?style=social" href="https://www.youtube.com/@sysulq"/>
+-->
 </p>
 
 <p align="center"> 
@@ -16,8 +18,10 @@
 ## How To Reach Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hnlq.sysu@gmail.com)
+<!--
 [![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat&logo=Youtube&logoColor=red&color=white)](https://www.youtube.com/@sysulq)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-c14438?style=flat&logo=Bilibili&logoColor=white&color=blue)](https://space.bilibili.com/492204464)
+-->
 
 ## Presentations
 - 2023 ArchSummit (BeiJing)
